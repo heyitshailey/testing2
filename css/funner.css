@@ -1,0 +1,80 @@
+html, body{
+	font-family: garamond; 
+	padding: 0px;
+	margin: 0
+	;
+}
+
+
+
+header{
+	background-color: #33cccc;
+	padding: 40px 20px 40px 20px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color:white;
+}
+
+header img{
+	border-radius: 100px;
+	width:400px;
+	border: 10px solid #fcb603;
+
+
+}
+
+.content{
+	max-width: 700px;
+	margin:0 auto;
+	background-color: coral;
+	padding: 0 20px;
+}
+
+img.big_image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 35px;
+	color:pink;
+	font-style: oblique;
+
+}
+
+ul{
+	list-style:none;
+	padding: 50;
+	margin: 30;
+}
+
+a{
+	color:red;
+	text-decoration: none;
+}
+
+footer{
+
+padding: 20px 20px;
+background-color:#03fc62;
+margin-top: 20px;
+}
+
+footer ul{
+	text-align:center;
+}
+
+footer ul li{
+	display:inline-block;
+	margin: 0 100px 0 100px;
+}
+
+	/*<header>
+		<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Jennifer_Aniston_as_Rachel_Green.jpg/220px-Jennifer_Aniston_as_Rachel_Green.jpg">
+		<h1>Rachel Green</h1>
+
+	</header>*/
+
+
